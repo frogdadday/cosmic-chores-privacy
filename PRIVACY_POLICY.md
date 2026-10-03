@@ -17,6 +17,7 @@ available between app sessions. This can include:
 - chore-list names and schedule choices;
 - people's names and, when you choose to add them, phone numbers;
 - chores and daily assignments;
+- daily mission-completion checkmarks;
 - rotation choices; and
 - reminder times.
 
