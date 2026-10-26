@@ -101,7 +101,4 @@ updated.
 
 ## Privacy questions
 
-For privacy questions or requests, contact the developer through the
-[Frogdadday GitHub profile](https://github.com/frogdadday) or open an issue in
-the public
-[Cosmic Chores Privacy repository](https://github.com/frogdadday/cosmic-chores-privacy/issues).
+For privacy questions or developer contact, email [fsj406@yahoo.com](mailto:fsj406@yahoo.com).
